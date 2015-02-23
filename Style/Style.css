@@ -1,0 +1,427 @@
+body {
+    background-color: #111111;
+    background-image: url(img/body-bg-tiled.jpg);
+    background-repeat: repeat-y;
+    background-position: center top;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    line-height: 18px;
+    color: #eeeeee;
+}
+
+h1 {
+    font-size:36px;
+    color:white;
+    font-weight:lighter;
+    font-family:'Trebuchet MS';
+    text-shadow: -1px 0 #1b1b1b, 0 1px #1b1b1b, 1px 0 #1b1b1b, 0 -1px #1b1b1b;
+}
+
+.content {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;
+}
+
+#contatoTop {
+    font-size:15px;
+    font-family:'Trebuchet MS';
+    text-shadow: -1px 0 #1b1b1b, 0 1px #1b1b1b, 1px 0 #1b1b1b, 0 -1px #1b1b1b;
+    font-weight:lighter;
+}
+
+#contatoRight {
+    float:right;
+    width:400px;
+}
+
+#empresaLeft {
+    float:left;
+    width:450px;
+    font-size:15px;
+    font-family:'Trebuchet MS';
+    text-shadow: -1px 0 #1b1b1b, 0 1px #1b1b1b, 1px 0 #1b1b1b, 0 -1px #1b1b1b;
+    font-weight:lighter;
+}
+
+#empresaRight {
+    float:right;
+    width:450px;
+    font-size:15px;
+    font-family:'Trebuchet MS';
+    text-shadow: -1px 0 #1b1b1b, 0 1px #1b1b1b, 1px 0 #1b1b1b, 0 -1px #1b1b1b;
+    font-weight:lighter;
+}
+
+.logo-container {
+    position: relative;
+    height: 80px;
+    display: block;
+    overflow: visible;
+    margin-top: -80px;
+    margin-bottom: 10px;
+}
+
+.body {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+	padding-bottom: 157px;
+}
+
+.imgBanner {
+    -moz-box-shadow: 0 0 15px 5px #000;
+    -webkit-box-shadow: 0 0 15px 5px #000;
+    box-shadow: 0 0 15px 5px #000;
+}
+
+body .portfolio-sections a {
+    color: #999999;
+}
+
+body.woody {
+    background-image: url(img/woody/body-bg-tiled.jpg);
+}
+
+body.content.woody .portfolio-sections a {
+    color: #999;
+}
+
+.main_bg {
+    width: 100%;
+    overflow: hidden;
+    background-image: url(img/body-bg.png);
+    background-position: center top;
+    background-repeat: repeat-x;
+}
+
+    .main_bg.content {
+        background-image: url(img/body-bg-sh.png);
+    }
+
+.copyright {
+    height: 47px;
+    width: 927px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url(img/shadow-footer-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 10px;
+    color: #6f6f6f;
+    padding-top: 30px;
+}
+
+/*.footer_bg {
+    width: 100%;
+    padding: 30px 0;
+    background-color: #000;
+    background-image: url(img/footer_bg.png);
+    background-position: center top;
+    background-repeat: repeat-x;
+    bottom: 0;
+    position: absolute;
+}*/
+
+.footer_bg {
+	width: 100%;
+	overflow: hidden;
+	padding: 30px 0;
+	background-color: #000;
+	background-image: url(img/footer_bg.png);
+	background-position: center top;
+	background-repeat: repeat-x;
+	bottom: 0px;
+	//position: absolute;
+}
+
+.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12, .grid_13, .grid_14, .grid_15, .grid_16 {
+    display: inline;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.omega {
+    margin-right: 0;
+}
+
+/* MAIN NAVIGATION */
+.navigation {
+    background-image: url(img/navigation-bg.png);
+    background-repeat: repeat-x;
+    height: 28px;
+    background-position: top;
+    width: auto;
+    position: relative;
+    float: right;
+    padding-top: 6px;
+    right: -5px;
+}
+
+    .navigation ul li a {
+        text-decoration: none;
+        color: #dbdbdb;
+        width: auto;
+        padding-right: 25px;
+        padding-left: 25px;
+        font-size: 11px;
+        text-transform: uppercase;
+        display: block;
+        float: left;
+        padding-top: 9px;
+        padding-bottom: 5px;
+        letter-spacing: 0.1em;
+    }
+
+.nav-right-corner {
+    height: 34px;
+    width: 15px;
+    background-image: url(img/nav-right-corner-bg.png);
+    float: right;
+    right: -5px;
+    position: relative;
+}
+
+.nav-left-corner {
+    height: 34px;
+    width: 69px;
+    background-image: url(img/nav-left-corner-bg.png);
+    float: right;
+    right: -5px;
+    position: relative;
+}
+
+.navigation-wrap {
+    float: right;
+    position: relative;
+    width: 960px;
+    background-repeat: repeat-x;
+    background-position: bottom;
+    z-index: 999;
+}
+
+.sf-menu, .sf-menu * {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.sf-menu {
+    line-height: 1.0;
+    position: relative;
+    z-index: 50;
+}
+
+    .sf-menu ul {
+        position: absolute;
+        top: -999em;
+        width: 185px; /* left offset of submenus need to match (see below) */
+        z-index: 100;
+    }
+
+        .sf-menu ul li {
+            width: 100%;
+        }
+
+    .sf-menu li:hover {
+        visibility: inherit; /* fixes IE7 'sticky bug' */
+    }
+
+    .sf-menu li {
+        float: left;
+        position: relative;
+    }
+
+    .sf-menu a {
+        display: block;
+        position: relative;
+    }
+
+    .sf-menu li:hover ul, .sf-menu li.sfHover ul {
+        left: 0;
+        top: 2em; /* match top ul list item height */
+    }
+
+ul.sf-menu li:hover li ul, ul.sf-menu li.sfHover li ul {
+    top: -999em;
+}
+
+ul.sf-menu li li:hover ul, ul.sf-menu li li.sfHover ul {
+    left: 185px; /* match ul width */
+    top: 0;
+}
+
+ul.sf-menu li li:hover li ul, ul.sf-menu li li.sfHover li ul {
+    top: -999em;
+}
+
+ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
+    left: 185px; /* match ul width */
+    bottom: 10em;
+    top: 0;
+}
+
+.sf-menu {
+    float: right;
+    margin-bottom: 0;
+    z-index: 50;
+    position: relative;
+    right: -5px;
+    background-image: url(img/navigation-bg.png);
+    background-repeat: repeat-x;
+    background-position: top;
+    height: 34px;
+}
+
+    .sf-menu a {
+        text-decoration: none;
+    }
+
+        .sf-menu a, .sf-menu a:visited { /* visited pseudo selector so IE6 applies text colour*/
+            text-decoration: none;
+            color: #dbdbdb;
+            width: auto;
+            padding-right: 25px;
+            padding-left: 25px;
+            font-size: 10px;
+            text-transform: uppercase;
+            display: block;
+            float: left;
+            padding-top: 15px;
+            padding-bottom: 5px;
+            letter-spacing: 0.1em;
+        }
+
+    .sf-menu li {
+    }
+
+        .sf-menu li ul {
+            padding: 1px;
+            padding-bottom: 15px;
+            background-color: #1b1b1b;
+            background-image: url(img/sub-nav-bg.png);
+            background-repeat: repeat-x;
+            background-position: top;
+            border: 1px solid #4e4e4e;
+        }
+
+        .sf-menu li li {
+            padding-bottom: 5px;
+            padding-top: 0px;
+            height: 25px;
+            background-image: url(img/sub-nav-li-ul-bg.png);
+            background-repeat: no-repeat;
+            background-position: center 8px;
+        }
+
+        .sf-menu li:hover, .sf-menu li.sfHover, .sf-menu a:focus, .sf-menu a:hover, .sf-menu a:active {
+            color: #fff;
+            outline: 0;
+        }
+
+        .sf-menu li li:hover, .sf-menu li li.sfHover, .sf-menu li li a:focus, .sf-menu li li a:hover, .sf-menu li li a:active {
+            color: #fff;
+            outline: 0;
+        }
+        /* Active Page Status CSS for all the browsers*/
+        .sf-menu li.current-cat a, .sf-menu li.current_page_item a {
+            color: #dbdbdb;
+        }
+
+            .sf-menu li.current-cat a:visited, .sf-menu li.current_page_item a:visited {
+                color: #C4C4C4;
+            }
+
+    .sf-menu .current_page_item a {
+        background-image: url(img/active-glow.jpg);
+        background-repeat: no-repeat;
+        background-position: center 5px;
+        font-weight: bold;
+        color: #FFF;
+    }
+
+    .sf-menu ul li .current_page_item a {
+        background-image: none;
+    }
+
+    .sf-menu .current_page_ancestor a {
+        background-image: url(img/active-glow.jpg);
+        background-repeat: no-repeat;
+        background-position: center 5px;
+        font-weight: bold;
+    }
+
+        .sf-menu .current_page_ancestor a:hover {
+            color: #DBDBDB;
+        }
+
+    .sf-menu li.current_page_ancestor ul li a {
+        background-image: none;
+        font-weight: normal;
+    }
+
+    .sf-menu li.current_page_item ul li a {
+        background-image: none;
+    }
+
+        .sf-menu li.current_page_item ul li a:hover {
+            background-image: none;
+            color: #FFF;
+        }
+
+/* MAIN NAVIGATION END */
+
+
+#piecemakercontainer {
+    width: 1200px;
+    outline: 0;
+    margin-left: -120px;
+}
+
+.piecemakerframe {
+    background-image: url(img/cub3r-frame-shadow.png);
+    height: 430px;
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 960px;
+    left: -5px;
+    position: relative;
+    padding-right: 5px;
+    padding-left: 5px;
+    overflow: visible;
+    z-index: 1;
+}
+
+/* EKO7 IMAGES */
+
+.thumb_image {
+	width: 300px;
+	height: 230px;
+	cursor: pointer;
+}
+
+.thumb_col_left {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 10px;
+}
+
+.thumb_col_center {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.thumb_col_right {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 5px;
+}
