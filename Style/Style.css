@@ -111,9 +111,13 @@ body.content.woody .portfolio-sections a {
     background-repeat: no-repeat;
     margin-top: 20px;
     text-align: center;
-    font-size: 10px;
+    font-size: 12px;
     color: #6f6f6f;
-    padding-top: 30px;
+    padding: 30px 0px;
+}
+
+.copyright a, .copyright a:visited {
+    color:#fff;
 }
 
 .homeTable {
@@ -158,6 +162,22 @@ body.content.woody .portfolio-sections a {
 	background-repeat: repeat-x;
 	bottom: 0px;
 	//position: absolute;
+}
+
+.footerDiv {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footerDiv table {
+    width:100%;
+}
+
+.footerDiv a, .footerDiv a:visited {
+    color: #fff;
+    margin:5px 0px;
+    display: inline-block;
 }
 
 .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12, .grid_13, .grid_14, .grid_15, .grid_16 {
