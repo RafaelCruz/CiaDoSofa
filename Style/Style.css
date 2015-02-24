@@ -424,6 +424,7 @@ ul.sf-menu li li li:hover ul, ul.sf-menu li li li.sfHover ul {
 	width: 300px;
 	height: 230px;
 	cursor: pointer;
+    border:5px solid #fff;
 }
 
 .thumb_col_left {
