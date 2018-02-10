@@ -10,14 +10,14 @@ Companhia do Sofa is a family business in the heart of Porto Alegre/Brazil. Itâ€
 
 ## Companhia do Sofa services includes:
 
-:white_check_mark: Sofa Repairs <br/>
-:white_check_mark: Chair Repairs<br/>
-:white_check_mark: Leather Repairs<br/>
-:white_check_mark: Replacement Covers / Foam<br/>
-:white_check_mark: Foam Cushion Replacement<br/>
-:white_check_mark: Sofa Cleaning<br/>
-:white_check_mark: Therapeutic Couches<br/>
-:white_check_mark: Dismantle and reassembly service<br/>
-:white_check_mark: Feet and castors replaced<br/>
+:white_check_mark:  Sofa Repairs <br/>
+:white_check_mark:  Chair Repairs<br/>
+:white_check_mark:  Leather Repairs<br/>
+:white_check_mark:  Replacement Covers / Foam<br/>
+:white_check_mark:  Foam Cushion Replacement<br/>
+:white_check_mark:  Sofa Cleaning<br/>
+:white_check_mark:  Therapeutic Couches<br/>
+:white_check_mark:  Dismantle and reassembly service<br/>
+:white_check_mark:  Feet and castors replaced<br/>
 
 <img src='frontImage.png' />
