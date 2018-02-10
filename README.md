@@ -1,3 +1,7 @@
+<a href="https://codeclimate.com/github/lisashiphrah/CiaDoSofa/maintainability"><img src="https://api.codeclimate.com/v1/badges/396e30dae75c147526be/maintainability" /></a>
+
+<a href="https://codeclimate.com/github/lisashiphrah/CiaDoSofa/test_coverage"><img src="https://api.codeclimate.com/v1/badges/396e30dae75c147526be/test_coverage" /></a>
+
 <h2>Website for Cia do Sofa</h2>
 
 <label>
