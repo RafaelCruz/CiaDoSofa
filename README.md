@@ -2,19 +2,22 @@
 
 <a href="https://codeclimate.com/github/lisashiphrah/CiaDoSofa/test_coverage"><img src="https://api.codeclimate.com/v1/badges/396e30dae75c147526be/test_coverage" /></a>
 
-<h2>Website for Cia do Sofa</h2>
+# COMPANHIA DO SOFA WEBSITE :star: :star: :star:
 
-<label>
-  Contents of Cia do Sofa's website, a local brazilian company responsible to build and restore sofas.
-</label>
+This project is a website developed for Companhia do Sofa, a local Brazilian company responsible to build and restore sofas.
 
-<b>Company Address:</b> <br/>
-<label>
-Rua Dona Augusta, 70 <br/>
-Bairro Menino Deus  <br/>
-Porto Alegre <br/>
-(51) 3026-5151 <br/>
-(51) 3573-5051 <br/>
-</label>
+Companhia do Sofa is a family business in the heart of Porto Alegre/Brazil. It’s director has been in the furniture industry for over 30 years, starting as a frame maker for a well known sofa manufacturer
+
+## Companhia do Sofa services includes:
+
+:white_check_mark: Sofa Repairs <br/>
+:white_check_mark: Chair Repairs<br/>
+:white_check_mark: Leather Repairs<br/>
+:white_check_mark: Replacement Covers / Foam<br/>
+:white_check_mark: Foam Cushion Replacement<br/>
+:white_check_mark: Sofa Cleaning<br/>
+:white_check_mark: Therapeutic Couches<br/>
+:white_check_mark: Dismantle and reassembly service<br/>
+:white_check_mark: Feet and castors replaced<br/>
 
 <img src='frontImage.png' />
